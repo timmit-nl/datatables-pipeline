@@ -1,0 +1,30 @@
+{
+  "name": "DataTablesPipeline",
+  "version": "0.0.1",
+  "authors": [
+    "DataTables",  
+    "Tim Schoondergang <tim.schoondergang@timmit.nl>"
+  ],
+  "description": "script from the example of datatables website",
+  "main": "DataTables.pipeline.js",
+  "keywords": [
+    "Datatables",
+    "datatable",
+    "pipeline"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/timmit-nl/datatables-pipeline",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public_html/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "datatables-plugins": "*",
+    "datatables": "~1.10.0"
+  }
+}

@@ -1,12 +1,13 @@
+
 {
   "name": "DataTablesPipeline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "DataTables",  
     "Tim Schoondergang <tim.schoondergang@timmit.nl>"
   ],
   "description": "script from the example of datatables website",
-  "main": "DataTables.pipeline.js",
+  "main": "dataTables.pipeline.js",
   "keywords": [
     "Datatables",
     "datatable",
